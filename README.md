@@ -1,6 +1,4 @@
-<span style="background:blue">some *blue* text</span>
-
-<h1 align='center' style="background-color:blue;">
+<h1 align='center'>
   <img src='./assets/Logo.png' >
 </h1>
 
