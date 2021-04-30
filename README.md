@@ -1,6 +1,6 @@
-<div style="background:#141527">
-  
-<h1 align='center'>
+<span style="background:blue">some *blue* text</span>
+
+<h1 align='center' style="background-color:blue;">
   <img src='./assets/Logo.png' >
 </h1>
 
@@ -43,4 +43,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para visualizar o projeto em seu computador basta ter um servidor local de desenvolvimento como o **Live Server**.
 Caso não tenha um instalado você poderá acessar o [Guia de instalação](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-</div>
+
