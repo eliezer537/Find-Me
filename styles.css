@@ -5,6 +5,14 @@
           box-sizing: border-box;
 }
 
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
 .container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -93,7 +101,7 @@ main .info .text-info {
 }
 
 main .info .text-info div {
-  font-size: 25px;
+  font-size: 2.5rem;
   font-family: sans-serif;
   color: #f1f1f1;
   white-space: nowrap;
@@ -121,5 +129,98 @@ main .info .localization-map {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+}
+
+@media (max-width: 800px) {
+  html {
+    font-size: 50%;
+  }
+  main {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 100%;
+  }
+  main .info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-width: 95%;
+    width: 90%;
+    height: 80%;
+  }
+  main .info .text-info {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    width: 500px;
+    max-width: 95%;
+  }
+  main .info .localization-map {
+    -webkit-box-flex: 1.2;
+        -ms-flex: 1.2;
+            flex: 1.2;
+    width: 500px;
+    max-width: 95%;
+    height: 350px;
+  }
+}
+
+@media (max-width: 425px) {
+  html {
+    font-size: 40%;
+  }
+  header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 0;
+  }
+  main .info .text-info {
+    min-width: 100%;
+    max-width: 95%;
+    width: 100%;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  main .info .localization-map {
+    min-width: 100%;
+    max-width: 95%;
+    width: 100%;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
