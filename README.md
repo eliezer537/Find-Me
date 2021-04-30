@@ -1,4 +1,3 @@
-<div background-color='blue'>
 <h1 align='center'>
   <img src='./assets/Logo.png' >
 </h1>
@@ -30,7 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   para mapas interativos (alternativa para o google maps).
 - [IP2Location](https://www.ip2location.com/) Serviço que identifica a localização geográfica e proxy por endereço IP.
 
-<h1></h1>
+</p>
 
 ## 📥 Como baixar o projeto
 
