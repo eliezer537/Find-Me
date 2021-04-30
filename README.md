@@ -1,5 +1,5 @@
-<h1 align='center'>
-  <img src='./assets/Logo.png' >
+<h1 align='center' style='color:#141527; font-size:40px'>
+FINDME
 </h1>
 
 ## 💻 Como acessar o projeto
@@ -9,7 +9,7 @@
 <h1></h1>
 
 <h1>
-  <img src='./assets/page.png' >
+  <img src='./images-readme/print.png' >
 </h1>
 
 ## 📃 Sobre
