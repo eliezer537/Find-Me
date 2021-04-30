@@ -1,4 +1,4 @@
-<h1 align='center' style='color:#141527; font-size:40px'>
+<h1>
 FINDME
 </h1>
 
