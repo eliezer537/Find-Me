@@ -3,6 +3,7 @@
 </h1>
 
 ## 💻 Como acessar o projeto
+
 ### Para ver a aplicação acesse: [Find Me](https://findmenow.netlify.app/)
 
 <h1></h1>
@@ -20,20 +21,22 @@ A aplicação tem como objetivo nos fazer refletir sobre a quantidade de informa
 ## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Leaflet](https://leafletjs.com/) : Biblioteca JavaScript de código aberto
-para mapas interativos (alternativa para o google maps).
-- [IP2Location](https://www.ip2location.com/)  Serviço que identifica a localização geográfica e proxy por endereço IP.
-
+  para mapas interativos (alternativa para o google maps).
+- [IP2Location](https://www.ip2location.com/) Serviço que identifica a localização geográfica e proxy por endereço IP.
 
 <h1></h1>
 
 ## 📥 Como baixar o projeto
+
 ```bash
     $ git clone https://github.com/eliezer537/Find-Me.git
     $ cd FindMe
 ```
+
 Para visualizar o projeto em seu computador basta ter um servidor local de desenvolvimento como o **Live Server**.
 Caso não tenha um instalado você poderá acessar o [Guia de instalação](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
