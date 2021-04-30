@@ -29,7 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   para mapas interativos (alternativa para o google maps).
 - [IP2Location](https://www.ip2location.com/) Serviço que identifica a localização geográfica e proxy por endereço IP.
 
-<h1></h1>
+</p>
 
 ## 📥 Como baixar o projeto
 
@@ -40,3 +40,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para visualizar o projeto em seu computador basta ter um servidor local de desenvolvimento como o **Live Server**.
 Caso não tenha um instalado você poderá acessar o [Guia de instalação](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+
