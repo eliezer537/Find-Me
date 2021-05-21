@@ -1,6 +1,6 @@
 const Requester = {
 	async requestData() {
-		const apiKey = '1be9a6884abd4c3ea143b59ca317c6b2';
+		const apiKey = 'a8f797f1d83e4368b3357e12926da47d';
 		try {
 			const response = await fetch(
 				`https://ipgeolocation.abstractapi.com/v1/?api_key=${apiKey}`
